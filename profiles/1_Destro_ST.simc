@@ -1,7 +1,7 @@
 iterations=100
 calculate_scale_factors=1
 normalize_scale_factors=1
-#json=1_Destro_ST_report.json
+json=1_Destro_ST_report.json
 threads=2
 
 
