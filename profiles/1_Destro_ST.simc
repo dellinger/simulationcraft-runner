@@ -1,9 +1,4 @@
-iterations=100
-calculate_scale_factors=1
-normalize_scale_factors=1
-json=1_Destro_ST_report.json
-threads=2
-
+input=../global/globals.simc
 
 warlock="Envin"
 level=110
@@ -31,3 +26,4 @@ finger2=,id=139238,enchant_id=5424,bonus_id=1805/1492/3336
 trinket1=,id=139326,bonus_id=1805/1497/3336
 trinket2=,id=133642,bonus_id=1727/1522/3337
 main_hand=,id=128941,bonus_id=749,relic_id=3396:1502:3337/3412:1507:3336/1805:1492:3336,gem_id=141277/137375/139253/0
+

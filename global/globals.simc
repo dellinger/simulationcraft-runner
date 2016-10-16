@@ -1,0 +1,4 @@
+iterations=10
+calculate_scale_factors=1
+#normalize_scale_factors=1
+threads=2
